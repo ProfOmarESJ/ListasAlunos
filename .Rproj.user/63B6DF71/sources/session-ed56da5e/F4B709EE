@@ -3,7 +3,7 @@
     "path": "~/GitHub/SiteEstatistica/ListasAlunos/lista.qmd",
     "project_path": "lista.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2675127589",
     "contents": "",
     "dirty": false,
     "created": 1773964604079.0,
@@ -14,15 +14,15 @@
         "rmdVisualWrapConfigured": "true",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "33,0",
-        "scrollLine": "26"
+        "cursorPosition": "50,10",
+        "scrollLine": "47"
     },
     "folds": "",
-    "lastKnownWriteTime": 1773963010,
+    "lastKnownWriteTime": 1773974088,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1773963010,
+    "last_content_update": 1773974088774,
     "read_only": false,
     "read_only_alternatives": []
 }
