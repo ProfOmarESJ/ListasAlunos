@@ -1,6 +1,6 @@
 ---
 title: "AED"
-author: "Omar C N Pereira"
+author: "Omar Pereira"
 #date: 2022-01-01
 categories: ["R","Ciências Sociais"]
 tags: ["Ciências Sociais", 
