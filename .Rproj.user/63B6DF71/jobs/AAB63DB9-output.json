@@ -183,3 +183,4 @@
 [1,"pandoc \n  to: html\n  output-file: lista.html\n  standalone: true\n  title-prefix: Estatística Básica\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme: cosmo\n  title: Lista\n  author: Omar C N Pereira\n  categories:\n    - Alunos\n    - Lista de exercícios\n  tags:\n    - Distribuição Contínua\n    - Distribuição Normal\n    - Probabilidade\n    - Gaussiana\n    - Intervalo de confiança\n    - Teste de hipóteses\n  \n"]
 [1,"Output created: _site\\lista.html\n\nWatching files for changes\n"]
 [1,"GET: /lista.html\n"]
+[1,"GET: /sociais.html\n"]
